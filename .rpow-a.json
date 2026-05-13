@@ -1,0 +1,18 @@
+{
+  "updated_at": "2026-05-09T15:07:38.015Z",
+  "cookies": {
+    "rpow_session": "eyJlbWFpbCI6ImxpYnJhcGhpbGlwMjNAZ21haWwuY29tIiwiZXhwIjoxNzgwOTMxMTE4fQ.BOB8YfHPUMWmwJWNlfMoTgZWdQebI7A5foWaD30NfEs"
+  },
+  "challenge": {
+    "challenge_id": "9545c2ff-1b21-45a2-a576-5608ab96d501",
+    "nonce_prefix": "700d4a2bbfcfd2f7241d61af6c96126d",
+    "difficulty_bits": 25,
+    "expires_at": "2026-05-09T15:10:50.599Z"
+  },
+  "mining": {
+    "challenge_id": "9545c2ff-1b21-45a2-a576-5608ab96d501",
+    "nonce": "0",
+    "hashes": "0",
+    "difficulty_bits": 25
+  }
+}
