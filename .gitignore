@@ -1,0 +1,6 @@
+.rpow-*.json
+rpow-*.json
+.rpow-cli-state.json
+*.tmp
+*.zip
+image.png
